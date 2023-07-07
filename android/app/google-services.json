@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "334915825413",
+    "project_id": "videostreaming-7c43c",
+    "storage_bucket": "videostreaming-7c43c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334915825413:android:ca7ea00753c4642467d16c",
+        "android_client_info": {
+          "package_name": "com.example.tiktokclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334915825413-ihi196c0trohe718ua88qi1nu15jo0gs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzELA7f-n69Q_QEUTjKPivo-DTKO3uRDc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334915825413-ihi196c0trohe718ua88qi1nu15jo0gs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
